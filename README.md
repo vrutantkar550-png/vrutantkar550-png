@@ -20,3 +20,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=vrutantkar550-png&theme=tokyonight)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vrutantkar550-png.vrutantkar550-png)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=AI%2FML+Engineer;Building+Intelligent+Systems;Passionate+about+Deep+Learning)](https://git.io/typing-svg)
