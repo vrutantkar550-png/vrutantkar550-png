@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vrutantkar550-png&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub+Stats"  width="48%" /><br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrutantkar550-png&layout=compact&theme=tokyonight&hide_border=true" width="48%" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrutantkar550-png&layout=compact&theme=tokyonight&hide_border=true" width="54%" /><br>
 </p>
 
 <p align="center">
