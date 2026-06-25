@@ -1,24 +1,38 @@
-# Hi there, I'm VRUTANT KAR 👋
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=79C0FF&center=true&width=600&lines=🤖+AI%2FML+Engineer;Building+Intelligent+Systems;LLMs+%7C+NLP+%7C+Computer+Vision)](https://git.io/typing-svg)
 
-## 🤖 AI/ML Engineer
+# Hey there, I'm VRUTANT KAR 👋
+> Turning data into decisions • One model at a time
 
-- 🔭 Currently working on: LLMs & Generative AI
-- 🌱 Learning: Multimodal AI, MLOps
-- 💬 Ask me about: Python, PyTorch, NLP, Computer Vision
-- 📫 Reach me: vrutantkar550@gmail.com
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+---
+
+## 🚀 About Me
+- 🔭 Working on **LLMs & Generative AI**
+- 🌱 Learning **Multimodal AI, MLOps**
+- 💬 Ask me about **NLP, Computer Vision, PyTorch**
 - ⚡ Fun fact: I teach machines to think!
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrutantkar550-png&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrutantkar550-png&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vrutantkar550-png&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrutantkar550-png&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vrutantkar550-png&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vrutantkar550-png&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vrutantkar550-png.vrutantkar550-png)
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=AI%2FML+Engineer;Building+Intelligent+Systems;Passionate+about+Deep+Learning)](https://git.io/typing-svg)
+## 🟩 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vrutantkar550-png&theme=tokyo-night&hide_border=true)
