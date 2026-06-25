@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm VRUTANT KAR 👋
 
-<!--
-**vrutantkar550-png/vrutantkar550-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI/ML Engineer
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: LLMs & Generative AI
+- 🌱 Learning: Multimodal AI, MLOps
+- 💬 Ask me about: Python, PyTorch, NLP, Computer Vision
+- 📫 Reach me: vrutantkar550@gmail.com
+- ⚡ Fun fact: I teach machines to think!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrutantkar550-png&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrutantkar550-png&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vrutantkar550-png&theme=tokyonight)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vrutantkar550-png.vrutantkar550-png)
