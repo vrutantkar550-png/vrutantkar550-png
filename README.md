@@ -36,4 +36,4 @@
 ---
 
 ## 🟩 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vrutantkar550-png&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vrutantkar550-png&theme=tokyo-night&hide_border=true&custom_title=Contribution+ Graph)
