@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=79C0FF&center=true&width=600&lines=🤖+AI%2FML+Engineer;Building+Intelligent+Systems;LLMs+%7C+NLP+%7C+Computer+Vision)](https://git.io/typing-svg)
 
 # Hey there, I'm VRUTANT KAR 👋
-> Turning data into decisions • One model at a time
+> Turning data into decisions • One model at a time<br>
 > Aspiring AI & Software Developer with a strong foundation in Machine Learning, Agentic AI, and Software Development. Passionate about building intelligent, autonomous systems that solve real-world problems. Hands-on experience with n8n workflow automation, designing multi-step agentic pipelines, and integrating AI models into scalable applications. Eager to leverage cutting-edge tools and frameworks like LangChain, Python, and LLMs to contribute to innovative AI-driven solutions.
 
 
