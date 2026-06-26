@@ -3,6 +3,7 @@
 
 # Hey there, I'm VRUTANT KAR 👋
 > Turning data into decisions • One model at a time
+Aspiring AI & Software Developer with a strong foundation in Machine Learning, Agentic AI, and Software Development. Passionate about building intelligent, autonomous systems that solve real-world problems. Hands-on experience with n8n workflow automation, designing multi-step agentic pipelines, and integrating AI models into scalable applications. Eager to leverage cutting-edge tools and frameworks like LangChain, Python, and LLMs to contribute to innovative AI-driven solutions.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
